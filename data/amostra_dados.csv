@@ -1,0 +1,22 @@
+﻿id,created_at,first_name,last_name,email,cell_phone,country,state,street,number,additionals
+0,2017-11-01 14:45:41,Marta,Jesus,,9 9102-7834,Brasil,Acre,,,Conjunto 16
+1,2017-10-16 00:50:39,Luana,Almeida,,9 7328-8718,Brasil,Rio Grande do Sul,Avenida 56 do Estado Rio Grande do Sul,989.0,Conjunto 17
+2,2018-06-16 17:51:29,Frida,Mendes,frida@meu_email.com,9 5906-7552,Brasil,São Paulo,Avenida 59 do Estado São Paulo,534.0,
+3,2018-01-17 03:02:58,Daniela,Avelino,daniela@exemplo.com,9 4642-9486,Brasil,Mato Grosso,,,
+4,2018-08-06 07:24:16,Romário,Teixeira,,9 3093-6522,Brasil,Bahia,Praça 56 do Estado Bahia,191.0,Apto 12
+5,2018-01-05 17:20:49,Marcelo,Barroso,,9 2830-2088,Brasil,Rio Grande do Sul,Rua 28 do Estado Rio Grande do Sul,805.0,Conjunto 13
+6,2018-06-18 11:17:42,Cristiano,Elísio,cristiano@exemplo.com,9 3532-8404,Brasil,Goiás,Rua 78 do Estado Goiás,877.0,Apto 14
+7,2018-02-08 12:36:09,Everton,Barbosa,everton@meu_email.com,9 2553-4087,Brasil,Distrito Federal,Avenida 86 do Estado Distrito Federal,864.0,Apto 14
+8,2017-12-16 20:47:03,Gabriela,Alves,gabriela@exemplo.com,9 1353-8433,Brasil,Santa Catarina,,,
+9,2018-11-11 11:48:41,Luan,Dias,luan@exemplo.com,9 2417-3678,Brasil,Distrito Federal,Avenida 54 do Estado Distrito Federal,889.0,Conjunto 14
+10,2017-12-16 15:41:00,Mariana,Alves,mariana@meu_email.com,9 1846-6377,Brasil,Santa Catarina,,,
+11,2018-05-16 03:39:52,James,Albuquerque,,9 2430-5905,Brasil,Sergipe,Rua 30 do Estado Sergipe,229.0,
+12,2018-03-28 00:24:00,Carol,Barboza,carol@exemplo.com,9 8487-3501,Brasil,Mato Grosso,Rua 31 do Estado Mato Grosso,1.0,Conjunto 23
+13,2018-08-27 21:15:17,Carolina,Monteiro,carolina@teste.com,9 1226-4267,Brasil,Rio Grande do Sul,Rua 4 do Estado Rio Grande do Sul,444.0,Apto 21
+14,2017-11-12 03:02:41,Francisco,Nascimento,francisco@exemplo.com,9 7264-9020,Brasil,Distrito Federal,Rua 75 do Estado Distrito Federal,47.0,
+15,2018-11-15 18:00:53,Stephanie,Barbosa,stephanie@usuario.com,9 1446-3560,Brasil,Mato Grosso,,,Conjunto 4
+16,2017-12-12 21:29:54,Laura,Santos,laura@exemplo.com,9 7802-6152,Brasil,Maranhão,Rua 57 do Estado Maranhão,213.0,
+17,2017-10-19 20:18:14,João,Magalhães,joão@exemplo.com,9 5995-1272,Brasil,Pernambuco,Rua 20 do Estado Pernambuco,781.0,Apto 17
+18,2018-06-28 04:53:52,Jair,Magalhães,jair@exemplo.com,9 8368-1315,Brasil,Alagoas,Avenida 74 do Estado Alagoas,118.0,Conjunto 8
+19,2018-10-20 19:31:52,Caíque,Monteiro,caíque@exemplo.com,9 9793-9986,Brasil,Piauí,,,Conjunto 13
+20,2017-12-22 10:51:28,Adalberto,Silva,adalberto@usuario.com,9 1338-1447,Brasil,São Paulo,Rua 57 do Estado São Paulo,851.0,Conjunto 20

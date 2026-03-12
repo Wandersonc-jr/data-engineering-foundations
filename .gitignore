@@ -1,0 +1,17 @@
+# Ambientes virtuais e cache do Python
+__pycache__/
+.venv/
+venv/
+env/
+
+# Arquivos de ambiente (onde ficam senhas no futuro)
+.env
+
+# Ignorar arquivos de dados grandes ou sensíveis
+*.csv
+*.xlsx
+*.parquet
+
+# EXCEÇÃO: Permitir apenas os arquivos de amostra para o recrutador testar
+!data/amostra_dados.csv
+!data/amostra_dados.xlsx
